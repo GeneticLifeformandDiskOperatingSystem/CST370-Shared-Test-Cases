@@ -1,0 +1,6 @@
+5
+4
+insert 9
+insert 14
+displayStatus 0
+displayStatus 4
