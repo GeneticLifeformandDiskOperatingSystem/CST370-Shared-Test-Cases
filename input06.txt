@@ -1,0 +1,13 @@
+10
+19 16 13 10 7 4 1 9 6 2
+10
+insert 5
+display
+insert 14
+display
+deleteMax
+deleteMax
+display
+deleteMax
+displayMax
+display
