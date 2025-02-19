@@ -1,0 +1,7 @@
+5
+5
+insert 0
+insert 1
+displayStatus 0
+search 0
+tableSize
