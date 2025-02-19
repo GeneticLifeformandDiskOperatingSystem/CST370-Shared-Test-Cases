@@ -1,0 +1,23 @@
+11
+21
+insert 0
+insert 1
+insert 10
+insert 21
+insert 32
+tableSize
+displayStatus 10
+displayStatus 0
+displayStatus 1
+displayStatus 2
+displayStatus 3
+insert 2
+tableSize
+insert 22
+insert 45
+displayStatus 3
+search 0
+search 1
+search 45
+search 23
+displayStatus 0
