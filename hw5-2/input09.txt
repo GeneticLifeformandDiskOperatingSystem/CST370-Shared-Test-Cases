@@ -1,0 +1,18 @@
+5
+16
+insert 5
+insert 54
+tableSize
+insert 10
+tableSize
+insert 21
+displayStatus 0
+displayStatus 1
+displayStatus 2
+insert 32
+displayStatus 2
+insert 23
+tableSize
+displayStatus 0
+displayStatus 2
+displayStatus 8
