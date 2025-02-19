@@ -4,3 +4,4 @@ test04 - Verifies that hash table is treated like a circular array when insertin
 
 test05 - Verifies able to perform double rehash if needed - Edward Torres
 
+test06 - Verifies that hash table can handle insert 0 command
